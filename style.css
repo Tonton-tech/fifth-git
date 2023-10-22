@@ -1,0 +1,9 @@
+td, tr, table{
+border: 3px solid red;
+}
+.p {
+    color: darkblue;
+}
+.l, .l1, .l2, .l3{
+    color: darkgreen;
+}
